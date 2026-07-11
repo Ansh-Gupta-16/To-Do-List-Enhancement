@@ -12,7 +12,7 @@ DURATION : 8 WEEKS
 
 MENTOR : NEELA SANTOSH
 
-PROJECT DESCRIPTION: This project is a refactored and enhanced To-Do List web application developed to improve the structure, performance, and usability of an existing open-source project from GitHub. The original application allowed users to add, complete, and delete tasks within a single list. During the refactoring process, the codebase was reorganized to improve readability, maintainability, and overall efficiency without altering the core functionality.
+PROJECT DESCRIPTION: This project is enhanced To-Do List web application developed to improve the structure, performance, and usability of an existing open-source project from GitHub. The original application allowed users to add, complete, and delete tasks within a single list. During the refactoring process, the codebase was reorganized to improve readability, maintainability, and overall efficiency without altering the core functionality.
 
 Several new features were implemented to enhance the user experience. The application now supports multiple to-do lists, allowing users to organize tasks into different categories. The user interface was redesigned with a modern card-based layout, improved buttons, and better visual structure. A Dark Mode / Light Mode toggle was also introduced to provide a customizable and comfortable viewing experience.
 
@@ -20,19 +20,19 @@ Additionally, the JavaScript logic was optimized using cleaner event handling an
 
 #OUTPUT:
 
-Before Refractoring :
+Before:
 <img width="1908" height="874" alt="Image" src="https://github.com/user-attachments/assets/a03232f3-4b2a-4827-beef-6d756a449ef6" />
 
 <img width="1906" height="871" alt="Image" src="https://github.com/user-attachments/assets/ca9b5d37-b332-4f6a-bcb0-3a81084bf2e8" />
 
-After Refractoring :
+After:
 <img width="1910" height="872" alt="Image" src="https://github.com/user-attachments/assets/fc0a5735-882b-4c2e-86e8-5557ee2a96ea" />
 
 <img width="1912" height="871" alt="Image" src="https://github.com/user-attachments/assets/9d08c6b3-aefa-45c3-829a-7e9abc180a70" />
 
 <img width="1913" height="865" alt="Image" src="https://github.com/user-attachments/assets/2b41a160-7278-4194-ad43-9ca2c01b3fd3" />
 
-# Code Refactoring and Performance Optimization Report
+# Performance Optimization Report
 
 **Project:** To-Do List Web Application
 **Platform:** GitHub
@@ -40,11 +40,11 @@ After Refractoring :
 
 # 1. Introduction
 
-This project focuses on refactoring and optimizing an open-source To-Do List web application. The original project provided basic functionality that allowed users to add tasks, mark them as completed, and delete them.
+This project focuses on optimizing an open-source To-Do List web application. The original project provided basic functionality that allowed users to add tasks, mark them as completed, and delete them.
 
-However, the initial implementation had limited scalability, minimal UI features, and lacked support for multiple task lists. The goal of this refactoring process was to improve the application's readability, usability, maintainability, and performance while preserving its core functionality.
+However, the initial implementation had limited scalability, minimal UI features, and lacked support for multiple task lists. The goal of this process was to improve the application's readability, usability, maintainability, and performance while preserving its core functionality.
 
-The project was refactored by restructuring the code, improving UI design, introducing modern development practices, and implementing additional features such as multiple to-do lists and dark/light mode.
+The project is enhanced by restructuring the code, improving UI design, introducing modern development practices, and implementing additional features such as multiple to-do lists and dark/light mode.
 
 # 2. Problems in the Original Code
 
@@ -73,9 +73,9 @@ The original implementation contained several issues:
 
 * The structure made it difficult to extend the project with additional features.
 
-# 3. Refactoring Changes Implemented
+# 3. Improvement Changes Implemented
 
-The following improvements were made during the refactoring process.
+The following improvements were made during the improvement process.
 
 ## 3.1 Code Structure Improvements
 
@@ -139,7 +139,7 @@ The application now uses delegated event listeners to handle dynamically created
 
 # 4. Performance Improvements
 
-| Metric          | Before Refactoring | After Refactoring        |
+| Metric          | Before             | After                    |
 | --------------- | ------------------ | ------------------------ |
 | Code Structure  | Unstructured       | Modular and readable     |
 | Scalability     | Single list only   | Multiple lists supported |
@@ -169,6 +169,6 @@ These features significantly enhance the application's usability and flexibility
 
 # 6. Conclusion
 
-The refactoring process successfully improved both the structure and functionality of the original To-Do List application. The codebase is now more readable, modular, and easier to maintain. In addition, the application has been enhanced with modern UI features, improved event handling, and support for multiple task lists.
+The process successfully improved both the structure and functionality of the original To-Do List application. The codebase is now more readable, modular, and easier to maintain. In addition, the application has been enhanced with modern UI features, improved event handling, and support for multiple task lists.
 
-Overall, the refactored version provides better performance, improved scalability, and a more user-friendly experience compared to the original implementation.
+Overall, the version provides better performance, improved scalability, and a more user-friendly experience compared to the original implementation.
